@@ -20,15 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3606f8bb-4fe4-48a8-a61f-ffd9d5c9563c" name="Default Changelist" comment="gen">
-      <change afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cat-avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/ancap-role-play/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/ancap-role-play/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/gwint-nfc/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/gwint-nfc/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/gwint-nfc/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/gwint-nfc/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/mrucznik-role-play/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/mrucznik-role-play/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +38,7 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1id4dmiH5DjOtyrDCQOCdqYkfKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +49,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -82,6 +78,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Config" />
@@ -91,7 +88,8 @@
     <MESSAGE value="Projekty" />
     <MESSAGE value=".gitignore" />
     <MESSAGE value="gen" />
-    <option name="LAST_COMMIT_MESSAGE" value="gen" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
