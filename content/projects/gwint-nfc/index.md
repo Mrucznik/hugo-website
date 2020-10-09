@@ -1,7 +1,7 @@
 ---
 title: "Gwint NFC"
 date: 2020-10-07T10:50:16+02:00
-draft: true
+draft: false
 hideLastModified: true
 summaryImage: "logo.png"
 keepImageRatio: true

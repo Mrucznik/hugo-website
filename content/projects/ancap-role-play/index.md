@@ -1,7 +1,7 @@
 ---
 title: "Ancap Role Play"
 date: 2020-10-09T10:49:23+02:00
-draft: true
+draft: false
 hideLastModified: true
 summaryImage: "logo.png"
 keepImageRatio: true

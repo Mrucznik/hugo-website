@@ -1,7 +1,7 @@
 ---
 title: "Mrucznik Role Play"
 date: 2020-10-08T10:49:35+02:00
-draft: true
+draft: false
 hideLastModified: true
 summaryImage: "logo.png"
 keepImageRatio: true
