@@ -1,0 +1,3 @@
+[submodule "hugo-refresh"]
+	path = hugo-refresh
+	url = git@github.com:PippoRJ/hugo-refresh

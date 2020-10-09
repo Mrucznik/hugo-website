@@ -1,0 +1,3 @@
+baseURL = "http://mrucznik.pl"
+languageCode = "en-us"
+title = "My New Hugo Site"
