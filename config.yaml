@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Personal website and blog
+title: Mrucznik
 theme: hugo-refresh
 # theme: ../..
 
@@ -75,7 +75,7 @@ params:
   sidebar:
     # option to specify the logo of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/images/logo.png"
     # option to specify the font of the sidebar
     fontFamily: "Open Sans" # "Open Sans"
 
@@ -108,9 +108,9 @@ params:
     # option to specify the title in the homepage
     title: Mrucznik
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: Welcome to my personal website and blog!
     # option to specify image in the homepage
-    image: "/images/avatar.png" # worker.svg
+    image: "/images/avatar.svg" # worker.svg
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -122,7 +122,7 @@ params:
     # option to specify your contact email in the footer
     email: 
       link: mrucznik@gmail.com
-      title: My Email
+      title: Email
     # option to specify your linkedin profile in the footer
 #    linkedin:
 #      link: your_linkedin_profile
@@ -134,9 +134,9 @@ params:
     #   title: Facebook
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
-    # github: 
-    #   link: username
-    #   title: Github
+    github:
+     link: Mrucznik
+     title: Github
     # option to specify your twitter username in the footer; 
     # **uncomment** the below lines to show in footer
     # twitter: 
@@ -168,8 +168,8 @@ languages:
     params:
       homepage:
         title: Mrucznik
-        subtitle: Kox przez x
-        image: "/images/avatar.png" # worker.svg
+        subtitle: Witaj na mojej stronie!
+        image: "/images/logo.png" # worker.svg
         imageWidth: 500px
       
       # Some sub-parameters of the "footer" parameter
@@ -178,10 +178,10 @@ languages:
       # i.e., the parameters of the default language
       # won't be inherited.
       footer:
-        logo: "/images/refresh-square.svg"
+        logo: "/images/logo.png"
         email: 
           link: mrucznik@gmail.com
-          title: Mój email
+          title: Email
 #        linkedin:
 #          link: your_linkedin_profile
 #          title: LinkedIn
@@ -195,7 +195,7 @@ languages:
         #   link: username
         #   title: Instagram
         github:
-         link: https://github.com/Mrucznik
+         link: Mrucznik
          title: Github
         copyright: Mrucznik - 2020
       

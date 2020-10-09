@@ -19,8 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3606f8bb-4fe4-48a8-a61f-ffd9d5c9563c" name="Default Changelist" comment="Projekty">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="3606f8bb-4fe4-48a8-a61f-ffd9d5c9563c" name="Default Changelist" comment="gen">
+      <change afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/cat-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/ancap-role-play/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/ancap-role-play/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/gwint-nfc/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/gwint-nfc/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/gwint-nfc/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/gwint-nfc/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/mrucznik-role-play/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/mrucznik-role-play/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +53,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/projects/ancap-role-play" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -55,9 +63,9 @@
       <recent name="$PROJECT_DIR$/content/projects/mrucznik-role-play" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/content/projects/ancap-role-play" />
       <recent name="$PROJECT_DIR$/resources/_gen/images" />
-      <recent name="$PROJECT_DIR$/static/images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,7 +89,9 @@
     <MESSAGE value="Images" />
     <MESSAGE value="Avatars" />
     <MESSAGE value="Projekty" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projekty" />
+    <MESSAGE value=".gitignore" />
+    <MESSAGE value="gen" />
+    <option name="LAST_COMMIT_MESSAGE" value="gen" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

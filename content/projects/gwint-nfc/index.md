@@ -5,7 +5,8 @@ draft: true
 hideLastModified: true
 summaryImage: "logo.png"
 keepImageRatio: true
-summary: "Aplikacja na Androida do liczenia punktów w grze Gwint"
+summary: "Aplikacja na Androida do liczenia punktów w grze Gwint."
+tags: ["Android"]
 ---
 
 W trakcie realizacji... 
