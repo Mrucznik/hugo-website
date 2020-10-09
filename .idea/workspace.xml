@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3606f8bb-4fe4-48a8-a61f-ffd9d5c9563c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/images/ancap_cat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ancap_cat.svg" afterDir="false" />
+    <list default="true" id="3606f8bb-4fe4-48a8-a61f-ffd9d5c9563c" name="Default Changelist" comment="Avatars">
+      <change afterPath="$PROJECT_DIR$/content/projects/ancap-role-play/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/mrucznik-role-play/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +48,18 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/projects/ancap-role-play" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/projects/ancap-role-play" />
+      <recent name="$PROJECT_DIR$/content/projects/gwint-nfc" />
+      <recent name="$PROJECT_DIR$/content/projects/index" />
+      <recent name="$PROJECT_DIR$/content/projects/mrucznik-role-play" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/projects/ancap-role-play" />
+      <recent name="$PROJECT_DIR$/resources/_gen/images" />
       <recent name="$PROJECT_DIR$/static/images" />
     </key>
   </component>
@@ -70,7 +78,24 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Config" />
+    <MESSAGE value="Example post" />
+    <MESSAGE value="Images" />
+    <MESSAGE value="Avatars" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avatars" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="671" y="327" width="567" height="390" key="#Images" timestamp="1602250918241">
+      <screen x="0" y="26" width="1920" height="986" />
+    </state>
+    <state x="671" y="327" width="567" height="390" key="#Images/0.26.1920.986/1920.0.1680.1050@0.26.1920.986" timestamp="1602250918241" />
+    <state x="651" y="229" width="618" height="580" key="find.popup" timestamp="1602248545324">
+      <screen x="0" y="26" width="1920" height="986" />
+    </state>
+    <state x="651" y="229" width="618" height="580" key="find.popup/0.26.1920.986/1920.0.1680.1050@0.26.1920.986" timestamp="1602248545324" />
   </component>
 </project>
