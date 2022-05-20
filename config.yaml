@@ -157,7 +157,7 @@ languages:
   en:
     languageName:       English
     weight:             1
-  ru:
+  pl:
     languageName:       Polish
     weight:             2
     # When Specifying different parameters for a different language 
